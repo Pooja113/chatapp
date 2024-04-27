@@ -1,0 +1,18 @@
+Print all even numbers from 10 - 100
+Create a length converter function: kms to miles
+Convert days into seconds
+Calculate the sum of odd numbers greater than 10 and multiples of 3 from a given array
+Create a function that reverses an array
+"Remove the spaces from a string"
+Return the number of vowels in a string
+Reverse each word of a given sentence
+Find the missing number in an array of length n, having elements from 1 to n
+"Create a random number generator of length 4"
+Find the even duplicate elements in an array of numbers
+"Find the element having the highest frequency in an array of numbers"
+A vehicle needs 10 times the amount of fuel than the distance it travels. However, it must always carry a minimum of 100 fuel before setting off.
+ Create a function which calculates the amount of fuel it needs, given the distance.
+E.g. caculateFuel(15)  —> 150
+Create a function that returns base-2 (binary) representation of a base-10 ( decimal ) string number.
+E.g. binary(5) —> 101
+Sort an array which consists of elements: 0, 1 & 2
